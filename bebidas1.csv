@@ -1,0 +1,3 @@
+Tipo;Nome_Produto;Quantidade;Preço;Codigo_Barras;Opcoes_extras;Fornecedor;Cnpj
+Bebida;Cerveja;3;2.55;464446464646846;40;Fulano;41212
+Salgado;Coxinha;100;4.99;1646844684646;70;1;0;Fornecedor;78888;
